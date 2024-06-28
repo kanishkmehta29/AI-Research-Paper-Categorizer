@@ -1,0 +1,11 @@
+gensim
+keras
+matplotlib
+numpy
+pandas
+plotly
+scikit_learn
+seaborn
+streamlit
+tensorflow==2.15.0
+tqdm
