@@ -17,3 +17,8 @@ The model is trained on a dataset of research papers from arXiv, a free distribu
 ## Model Details
 
 The classifier is built using advanced machine learning techniques and leverages state-of-the-art natural language processing (NLP) models to achieve high accuracy in category prediction.
+
+
+## Deployment
+
+Deployed on Streamlit. Check it out! : [https://imagecaptiongenerator.streamlit.app/](https://automatedresearchpapercategorizer.streamlit.app)
