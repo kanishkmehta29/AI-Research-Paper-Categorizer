@@ -21,4 +21,4 @@ The classifier is built using advanced machine learning techniques and leverages
 
 ## Deployment
 
-Deployed on Streamlit. Check it out! : [automated-research-paper-categorizer.streamlit.app(https://automated-research-paper-categorizer.streamlit.app)]
+Deployed on Streamlit. Check it out! : automated-research-paper-categorizer.streamlit.app[https://automated-research-paper-categorizer.streamlit.app]
