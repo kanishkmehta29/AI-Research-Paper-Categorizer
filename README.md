@@ -21,4 +21,4 @@ The classifier is built using advanced machine learning techniques and leverages
 
 ## Deployment
 
-Deployed on Streamlit. Check it out! : [https://imagecaptiongenerator.streamlit.app/](https://automatedresearchpapercategorizer.streamlit.app)
+Deployed on Streamlit. Check it out! : [https://automatedresearchpapercategorizer.streamlit.app](https://automatedresearchpapercategorizer.streamlit.app)
