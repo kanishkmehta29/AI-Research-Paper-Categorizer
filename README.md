@@ -35,7 +35,13 @@
 * **LSTM Layers**: The core of the model is built using Long Short-Term Memory (LSTM) layers. LSTMs are a type of recurrent neural network (RNN) that are well-suited for sequential data and can capture long-range dependencies in the text. This makes them ideal for understanding the context and flow of information in research papers.
 * **Dense Layers**: After the LSTM layers, dense (fully connected) layers are used to process the output and make final predictions. These layers are followed by an output layer with a sigmoid activation function for the 57-way multi-label classification.
 
-
+# :bar_chart:  RESULTS AND TESTING :
+![Alt text](TEST1.png)
+<br>
+<br>
+![Alt text](TEST2.png)
+<br>
+<br>
 
 ## Deployment
 
