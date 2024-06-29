@@ -1,4 +1,4 @@
-<h1 align="center">Automated Research Paper Classifier</h1>
+<h1 align="center">Automated Research Paper Categorizer</h1>
 
 <p align="center">
   <img src="https://images.aicrowd.com/images/challenges/image_file/839/blitz_9__7.1__linkpreview_copy_5.jpg" alt="Alt text" style="width:50%; height:auto;">
@@ -6,9 +6,8 @@
 
 # Table of Contents
 - Basic Overview
-- Demo
 - Data Collection and Preprocessing
-- Model Designing
+- Model Architecture
 - Results and Testing
 - Deployment
 
