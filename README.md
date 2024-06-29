@@ -35,10 +35,8 @@
 * **LSTM Layers**: The core of the model is built using Long Short-Term Memory (LSTM) layers. LSTMs are a type of recurrent neural network (RNN) that are well-suited for sequential data and can capture long-range dependencies in the text. This makes them ideal for understanding the context and flow of information in research papers.
 * **Dense Layers**: After the LSTM layers, dense (fully connected) layers are used to process the output and make final predictions. These layers are followed by an output layer with a sigmoid activation function for the 57-way multi-label classification.
 * **adams optimizer**: Adaptive Moment Estimation is the technique used to update the gradient descent. Used for sparse data.<br>
-* **categorical_crossentropy**: Categorical cross-entropy is used when true labels are one-hot encoded. Hence we use them.<br>
-![Alt text](model_png.png)
-<br>
-<br>
+* **categorical_crossentropy**: Categorical cross-entropy is used when true labels are one-hot encoded. Hence we use them.<br><br>
+![Alt text](model_plot.png)<br><br>
 # :bar_chart:  RESULTS AND TESTING :
 ![Alt text](TEST1.png)
 <br>
