@@ -1,5 +1,7 @@
 # Automated Research Paper Classifier
 
+![alt text](https://www.google.com/imgres?q=Research%20Paper%20Classification&imgurl=https%3A%2F%2Fimages.aicrowd.com%2Fimages%2Fchallenges%2Fimage_file%2F839%2Fblitz_9__7.1__linkpreview_copy_5.jpg&imgrefurl=https%3A%2F%2Fwww.aicrowd.com%2Fchallenges%2Fresearch-paper-classification&docid=sAsjxG3cSR62DM&tbnid=KRwsaVmokPDNLM&vet=12ahUKEwiak8DXsICHAxXPT2wGHf83Dy8QM3oECF4QAA..i&w=441&h=231&hcb=2&itg=1&ved=2ahUKEwiak8DXsICHAxXPT2wGHf83Dy8QM3oECF4QAA)
+
 Contemporary paper submission platforms necessitate users to upload paper titles and abstracts, followed by the selection of appropriate categories for their submissions. However, the multitude of available categories poses a challenge for authors seeking optimal classification. Imagine a submission system that not only streamlines this process but also enhances user experience by offering intelligent category suggestions based on the paper's content. The classifier is designed to perform multi-label classification to determine the appropriate research categories for a given paper based on its title and abstract.
 
 ## Features
