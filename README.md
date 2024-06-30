@@ -44,6 +44,12 @@
 <br>
 <br>
 
-## Deployment
+# Deployment
 
 Deployed on Streamlit. Check it out! : https://automated-research-paper-categorizer.streamlit.app
+
+# Team:
+
+This project was made by:
+* [Kanishk Mehta](https://github.com/kanishkmehta29)
+* [Chandrashekhar D](https://github.com/chandrashekhar14d)
