@@ -124,7 +124,7 @@ st.title("AI Research Paper Categorizer")
 
 st.write("Enter the text inputs for prediction:")
 
-input_string1 = st.text_area("Title", key='text_area1', height=50)
+input_string1 = st.text_area("Title", key='text_area1', height=70)
 input_string2 = st.text_area("Abstract", key='text_area2', height=150)
 
 if st.button("Predict Categories"):
